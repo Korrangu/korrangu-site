@@ -49,6 +49,12 @@ h1 {
     flex-direction: row;
 }
 
+a {
+    text-decoration: none;
+    color: inherit
+}
+
+
 .top-container {
     margin: 0px;
     display: flex;
